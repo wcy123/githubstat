@@ -1,8 +1,5 @@
-package com.easemob.githubstat.controller;
+package com.easemob.githubstat;
 
-import com.easemob.githubstat.AccessToken;
-import com.easemob.githubstat.GitHubApi;
-import com.easemob.githubstat.Session;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -74,7 +71,7 @@ public class Home {
     }
 
     @RequestMapping(value = "list_week", method = RequestMethod.GET)
-    public String callback(@RequestParam("code") String code,
+    public String list_week(@RequestParam("code") String code,
                            @RequestParam("state") String state,
                            @SessionAttribute Session mySession) {
         // TODO: verify state

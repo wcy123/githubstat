@@ -1,0 +1,40 @@
+[
+  {
+    "url": "https://api.github.com/orgs/easemob/memberships/wcy123",
+    "state": "active",
+    "role": "member",
+    "organization_url": "https://api.github.com/orgs/easemob",
+    "organization": {
+      "login": "easemob",
+      "id": 2704962,
+      "url": "https://api.github.com/orgs/easemob",
+      "repos_url": "https://api.github.com/orgs/easemob/repos",
+      "events_url": "https://api.github.com/orgs/easemob/events",
+      "hooks_url": "https://api.github.com/orgs/easemob/hooks",
+      "issues_url": "https://api.github.com/orgs/easemob/issues",
+      "members_url": "https://api.github.com/orgs/easemob/members{/member}",
+      "public_members_url": "https://api.github.com/orgs/easemob/public_members{/member}",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2704962?v=3",
+      "description": "环信即时通讯云"
+    },
+    "user": {
+      "login": "wcy123",
+      "id": 480846,
+      "avatar_url": "https://avatars.githubusercontent.com/u/480846?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/wcy123",
+      "html_url": "https://github.com/wcy123",
+      "followers_url": "https://api.github.com/users/wcy123/followers",
+      "following_url": "https://api.github.com/users/wcy123/following{/other_user}",
+      "gists_url": "https://api.github.com/users/wcy123/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/wcy123/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/wcy123/subscriptions",
+      "organizations_url": "https://api.github.com/users/wcy123/orgs",
+      "repos_url": "https://api.github.com/users/wcy123/repos",
+      "events_url": "https://api.github.com/users/wcy123/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/wcy123/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]
